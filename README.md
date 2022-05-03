@@ -1,6 +1,5 @@
 # learn-solidity
 Learning Solidity Ethereum Blockchain Programming.
-
 From Following Courses:
 
 - [Crypto Zombies](https://cryptozombies.io/en/course/)
